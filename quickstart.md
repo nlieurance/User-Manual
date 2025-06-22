@@ -11,5 +11,5 @@ I'm a strong writer with formal design training and solid technical skills. My n
 I thrive as a **remote contributor**. I've tailored a work space to my own needs and developed a rhythm that allows me to maximize productivity. In previous roles, I collaborated with teams scattered across the United States, Amsterdam, and India.
 
 ## Contact info
-- Email: writingandwoodworking@gmail.com
+- Email: [writingandwoodworking@gmail.com](mailto:writingandwoodworking@gmail.com)
 - Phone: 970-581-4446
