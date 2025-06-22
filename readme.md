@@ -1,3 +1,5 @@
+![myheadshot](https://uc383ab58daa4b6cbaf983861b5d.dl.dropboxusercontent.com/cd/0/inline/CsEd-hlja-2_GLnsVGpIcgMQDTMYgIear7LbHoV25Fiw4jGqoaQlJg5xmERULXkjnKkOH6USBYZTg_FIRSfp5-hzVbMXtE6-eQCXO-Nx7I9zRYJxV-0PS7lkysCXCYQbFeP3MxNhMupzZdXKMzbFEZO8/file#)
+
 # Welcome!
 
 Hello, I'm Nick. I write content that helps people make sense of things. That's what this user manual is all about—helping you understand what I do and what it means for you.
