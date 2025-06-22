@@ -1,2 +1,5 @@
 # Cross-functional collaboration
-Is there anything more important?
+Is there anything more important? I've worked with partners from design, engineering, product management, product marketing, sales, and support teams since 2014. Here are some examples of how we collaborated.
+
+## SurveyMonkey question editor
+SurveyMonkey users interact with the question editor whenever they add and configure survey questions. I was part of the team responsible for modernizing the feature. We didn't really have a starting point. This was one of those proejcts that started with a mandate from leadership. So I put together a kickoff document and shared it with the team. The lead designer scheduled a workshop, where we all got together and talked about next steps. I suggested a discovery activity, and we all went out and gathered data from existing research, as well as hundreds of responses to our in-product survey. As a result, we identified pain points and were able to start building a concept.
