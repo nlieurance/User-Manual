@@ -5,7 +5,7 @@
 * [Quickstart](quickstart.md)
 * [How I work](howiwork.md)
 
-## Addition content
+## Additional content
 * [Capabilities](Capabilities/readme.md)
     * [Coding](Capabilities/coding.md)
     * [Collaboration](Capabilities/collaboration.md)
