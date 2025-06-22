@@ -19,8 +19,9 @@ I never want to be a dictator who says things should be done this way or that wa
 ## Values I bring
 Here's what partners, peers, and managers can expect from me.
 
-- Autonomy: I work well with little to no direction. I find ways to get things done.
-- Flexibility: Got an approach that differs from mine? Want to explore options? Sounds great!
-- Recognition: I'll tell everybody about your great ideas and your wins.
-- Responsiveness: You're going to hear back from me right away.
-- Support: Need help getting something done? Want ideas about how to approach something? Just need to chat? I have your back. 
+- **Autonomy**: I work well with little to no direction. I find ways to get things done.
+- **Flexibility**: Got an approach that differs from mine? Want to explore options? Sounds great!
+- **Preparation**: I show up to meetings and 1:1s with ideas and questions.
+- **Recognition**: I'll tell everybody about your great ideas and your wins.
+- **Responsiveness**: You're going to hear back from me right away.
+- **Support**: Need help with something? Want some ideas? Just need to chat? I have your back. 
