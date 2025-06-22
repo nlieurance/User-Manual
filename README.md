@@ -4,7 +4,7 @@ Hello, I'm Nick. I write content that helps people make sense of things. That's 
 
 **I use language to help teams build record-breaking products. Known for my committment to understanding and advocating for users, I lead research to uncover the words and mental models that engage and convert.**
 
-I success because of these three things:
+I succeed because of these three things:
 - I work hard to make things easy for others. I have a habit of over delivering.
 - I'm super engaged, and I get others engaged. Humor is my favorite way to do this.
 - I go all-in for my team, my projects, and my company.
