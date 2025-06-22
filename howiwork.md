@@ -16,10 +16,12 @@ These are my favorite tools for keeping in touch:
 ## Giving and receiving feedback
 I never want to be a dictator who says things should be done this way or that way. That's why I like to deliver feedback in the form of questions. I'm also fond of showing how I might do something in order to open up a conversation about differing approaches. 
 
+If you're giving me feedback, be respectful and try to provide concrete information. Point to something I've done and talk about something specific. Give me an example of what you'd like to see from me.
+
 ## Values I bring
 Here's what partners, peers, and managers can expect from me.
 
-- **Autonomy**: I work well with little to no direction. I find ways to get things done.
+- **Autonomy**: I work well with little to no direction. You can count on me to get things done.
 - **Flexibility**: Got an approach that differs from mine? Want to explore options? Sounds great!
 - **Preparation**: I show up to meetings and 1:1s with ideas and questions.
 - **Recognition**: I'll tell everybody about your great ideas and your wins.
