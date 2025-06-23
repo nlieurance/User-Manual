@@ -1,7 +1,7 @@
 # Summary
 
 * [Welcome](readme.md)
-* [Quickstart](quickstart.md)
+* [About me](about.md)
 * [How I work](howiwork.md)
 
 * [Capabilities](Capabilities/readme.md)
