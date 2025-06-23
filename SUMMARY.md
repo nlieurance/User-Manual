@@ -14,7 +14,7 @@
     * [UX writing](Capabilities/uxwriting.md)
 
 * [FAQs](FAQs/readme.md)
-    * [What do you do?](FAQs/ai.md)
+    * [Are you comfortable with AI?](FAQs/ai.md)
 
 * [Projects](Projects/readme.me)
     * [SurveyMonkey](Projects/surveymonkey.md)
