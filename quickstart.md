@@ -5,7 +5,7 @@ Looking for a quick picture of who I am and how I might fit in with your team? H
 I'm an outstanding writer, a good designer, and I'm a whiz with software. I think about the big picture, not just my immediate deliverables. And I've been known to boost communication and engagement. Because of that, the teams I work on get things done.
 
 ## What I'm looking for in my next role
-In my next role, I'll help shape concepts and strategy. I'll write copy that guides and clarifies. My title will be one of the following:
+In my next role, I'll help shape concepts and strategy. I'll write copy that guides and clarifies. Whether my work appears in interfaces, documentation, or both doesn't matter. My title will be one of the following:
 
 - Content designer 
 - Technical writer
