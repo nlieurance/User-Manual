@@ -7,13 +7,17 @@ I'm from Kansas City, Missouri. I lived there until 2006, when my wife and I mov
 I haven't always worked as a writer. I spent 12 years in the woodworking trade. The early mornings, long hours, dangerous conditions, and meager pay make my current career feel like a breath of fresh air. If I don't seem rattled by deadlines or pressure, that's probably why. 
 
 ## Strengths
-- Attitude: I bring lots of smiles and a positive outlook.
-- Curiosity: I ask "What if?" a few times a day, maybe more.
-- Empathy: As a crisis volunteer crisis counselor, I learned to understand how others feel.
-- Humor: My coworkers laugh a lot. 
-- Memory: Names and faces. Dates. Numbers. I remember them all.
-- Technology: If there's a new piece of software or new device to learn, I'm all about it.
-- Writing: My mom was a writer and English teacher when I was a kid. Writing is in my blood.
+- **Attitude**: I bring lots of smiles and a positive outlook.
+- **Curiosity**: I ask "What if?" a few times a day, maybe more.
+- **Empathy**: As a crisis volunteer crisis counselor, I learned to understand how others feel.
+- **Humor**: My coworkers laugh a lot. 
+- **Memory**: Names and faces. Dates. Numbers. I remember them all.
+- **Technology**: If there's a new piece of software or new device to learn, I'm all about it.
+- **Writing**: My mom was a writer and English teacher when I was a kid. Writing is in my blood.
+
+## Weaknesses
+- **Housekeeping**: I can't seem to keep the clutter from piling up on my desk.
+- **Self-promotion**: I focus on building great user experiences. I should spend more time building my career.
 
 ## Personal values
 - **Autonomy, flexibility, and trust**: Nothing is more important to me than control of my own time.
