@@ -21,7 +21,7 @@ I haven't always worked as a writer. I spent 12 years in the woodworking trade. 
 ## Personal values
 - **Autonomy, flexibility, and trust**: Nothing is more important to me than control of my own time.
 - **Preparation**: I do my research and assemble resources before any interaction.
-- **Recognition**: I enjoy recognizing people for their ideas, contributions, and idiosyncracies. I want to get recognition for mine.
+- **Recognition**: I enjoy recognizing people for their ideas, contributions, and idiosyncrasies. I want to get recognition for mine.
 - **Responsiveness**: I get back to people right away. To the best of my ability, I deliver requests immediately.
 - **Support**: The people in my life, including the ones I work with, can count on my support.
 

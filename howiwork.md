@@ -1,9 +1,9 @@
 # How I work
 
 ## My work style
-I'm autonomous, yet collaborative. I love to think deeply about problems and try creative approaches to solving them. Frameworks and mental models are integral to my processes. Mind maps and other diagrams help me make sense of complexity. 
+I'm autonomous, yet collaborative. I like to think deeply about problems and try creative approaches to solving them. Frameworks and mental models are integral to my processes. Mind maps and other diagrams help me make sense of complexity. 
 
-For me, few things are as energizing and inspiring as interactive workshops where I can collaborate with other creatives. I love the opportunity to bounce ideas off and get inspired by others.
+For me, few things are as energizing and inspiring as interactive workshops where I can collaborate with other creatives. I treasure opportunities to bounce ideas off and get inspired by others.
 
 It's also important for me to have some focus time. That's when I get to do my deep thinking.
 
