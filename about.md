@@ -1,5 +1,4 @@
 # About me
-Looking for a quick picture of who I am and how I might fit in with your team? Here it is.
 
 ## Background
 I'm from Kansas City, Missouri. I lived there until 2006, when my wife and I moved to Fort Collins, CO. We wanted to be close to the mountains for camping, hiking, and fishing. 
@@ -9,9 +8,9 @@ I haven't always worked as a writer. I spent 12 years in the woodworking trade. 
 ## Strengths
 - **Attitude**: I bring lots of smiles and a positive outlook.
 - **Curiosity**: I ask "What if?" a few times a day, maybe more.
-- **Empathy**: As a crisis volunteer crisis counselor, I learned to understand how others feel.
-- **Humor**: My coworkers laugh a lot. 
-- **Memory**: Names and faces. Dates. Numbers. I remember them all.
+- **Empathy**: During a stint as a volunteer crisis counselor with Crisis Text Line, I learned to understand how others feel.
+- **Humor**: There have been numerous studies on the connection between humor and intelligence. Basically, I'm a genius. 
+- **Memory**: My ability to remember names, faces, dates, numbers, and quotes is almost scary.
 - **Technology**: If there's a new piece of software or new device to learn, I'm all about it.
 - **Writing**: My mom was a writer and English teacher when I was a kid. Writing is in my blood.
 
@@ -27,9 +26,10 @@ I haven't always worked as a writer. I spent 12 years in the woodworking trade. 
 - **Support**: The people in my life, including the ones I work with, can count on my support.
 
 ## My next role
-I enjoy building things, creating concepts, and formulating strategies. In my next role, I'll work closely with designers, engineers, and product managers. My title will be one of the following:
+I enjoy building things, creating concepts, and formulating strategies. In my next role, I'll work closely with designers, engineers, and product managers. My title could be any of the following:
 
 - Content designer 
+- Knowledge manager
 - Technical writer
 - UX writer
 
