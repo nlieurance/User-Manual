@@ -10,3 +10,5 @@ When I work with design and product partners, I don't just write or edit words i
 Static designs are great. But they can only do so much. When I design a complex concept, I like to build a prototype to show stakeholders exactly how I intend for things to work.
 
 ![A prototype I made for a new logic design at SurveyMonkey](../images/pipingprototype.png)
+
+[Try the prototype](https://www.figma.com/proto/SYKySJFfhpLB3ILPHNgz3t/Logic-Playground?node-id=199-31321&p=f&t=ThPOWSi1Smn7zmBX-1&scaling=min-zoom&content-scaling=fixed&page-id=199%3A30888&starting-point-node-id=199%3A31321)
