@@ -12,6 +12,8 @@ I used Markdown to create all the content for this site. Then I pushed it to Git
 ## PHP/MySQL
 Back in 2015, I had this idea for a CRUD app that would allow homeowners to get quotes for cabinet projects without getting spammed. So I built it. From scratch. With no prior experience in PHP/MySQL, setting up a server, or using databases. I was able to include lots of important features: authentication, content creation and reading, pagination, filtering, updating, and deleting. 
 
+![A screenshot of CabinetQuote running on my laptop](../images/cabinetquote.png)
+
 [See the code on GitHub](https://github.com/nlieurance/CabinetQuote.com.git)
 
 ## Python
