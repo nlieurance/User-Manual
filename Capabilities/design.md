@@ -7,3 +7,4 @@ I'm a capable visual designer with formal training. Here are some things I do in
 ## Mockups
 
 ## Prototypes
+![A prototype I made for a new logic design at SurveyMonkey](../images/pipingprototype.png)
