@@ -7,7 +7,7 @@ I was in college when I first learned to use HTML and CSS. How long ago was that
 ## Markdown
 I used Markdown to create all the content for this site. Then I pushed it to GitHub and synced the repository with GitBook. Does any of that make sense?
 
-[See the GitHub repository]()
+[See the GitHub repository](https://github.com/nlieurance/User-Manual.git)
 
 ## PHP/MySQL
 Back in 2015, I had this idea for a CRUD app that would allow homeowners to get quotes for cabinet projects without getting spammed. So I built it. From scratch. With no prior experience in PHP/MySQL, setting up a server, or using databases. I was able to include lots of important features: authentication, content creation and reading, pagination, filtering, updating, and deleting. 
