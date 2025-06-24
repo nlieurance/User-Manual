@@ -3,7 +3,7 @@
 ## Background
 I'm from Kansas City, Missouri. I lived there until 2006, when my wife and I moved to Fort Collins, Colorado. We wanted to be close to the mountains for camping, hiking, and fishing. 
 
-I haven't always worked as a writer. I spent 12 years in the woodworking trade. The combination of early mornings, long hours, dangerous conditions, and meager pay make my current career feel like a breath of fresh air. If I don't seem rattled by deadlines or pressure, that's probably why. 
+I haven't always worked as a writer. I spent 12 years in the woodworking trade. Compared to the early mornings, long hours, dangerous conditions, and meager pay I experienced during that time, my current career feels like a breath of fresh air. If I don't seem rattled by deadlines or pressure, that's probably why. 
 
 ## Strengths
 - **Attitude**: I bring lots of smiles and a positive outlook.
