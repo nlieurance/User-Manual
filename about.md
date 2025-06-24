@@ -41,3 +41,4 @@ I thrive as a **remote contributor** and have been working from home since 2020.
 ## Contact info
 - Email: [writingandwoodworking@gmail.com](mailto:writingandwoodworking@gmail.com)
 - Phone: 970-581-4446
+- Portfolio: [www.nickwritescopy.com](https://www.nickwritescopy.com)
