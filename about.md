@@ -26,12 +26,7 @@ I haven't always worked as a writer. I spent 12 years in the woodworking trade. 
 - **Support**: The people in my life, including the ones I work with, can count on my support.
 
 ## My next role
-I enjoy building things, creating concepts, and formulating strategies. In my next role, I'll work closely with designers, engineers, and product managers. My title could be any of the following:
-
-- Content designer 
-- Knowledge manager
-- Technical writer
-- UX writer
+I enjoy building things, creating concepts, and formulating strategies. In my next role, I'll do all these things in close partnership with designers, engineers, and product managers. I'll write copy that clarifies and guides. My work may appear in user interfaces and documentation. 
 
 ## Work location
 I live a bit north of Denver, so I'm on Mountain Time. Typically, I'm online an hour before folks on the West Coast.
