@@ -9,6 +9,7 @@
     * [Collaboration](Capabilities/collaboration.md)
     * [Design](Capabilities/design.md)
     * [Information architecture](Capabilities/informationarchitecture.md)
+    * [Strategy](Capabilities/strategy.md)
     * [Technical writing](Capabilities/technicalwriting.md)
     * [UX research](Capabilities/uxresearch.md)
     * [UX writing](Capabilities/uxwriting.md)
