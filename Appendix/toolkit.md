@@ -13,10 +13,11 @@ These are some of my favorite tools.
 - [UserTesting.com](https://www.usertesting.com/) for conducting usability tests with prototypes
 
 ## Thinking tools
+- [Coggle](https://coggle.it/) for creating mind maps
 - [Laws of UX](https://lawsofux.com/) for ensuring the things I build are usable
-- [Mental models](https://fs.blog/mental-models/) 
-- [Six Thinking Hats](https://www.debonogroup.com/services/core-programs/six-thinking-hats/)
-- [Usability heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) also for ensuring usability
+- [Mental models](https://fs.blog/mental-models/) for structured approaches to solving problems
+- [Six Thinking Hats](https://www.debonogroup.com/services/core-programs/six-thinking-hats/) for mapping out data, ideas, concerns, and more 
+- [Usability heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) for UX rules of thumb
 
 ## Writing tools
 - [Hemingway App](https://hemingwayapp.com/) for checking the readability of my writing
