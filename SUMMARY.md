@@ -16,9 +16,6 @@
 * [FAQs](FAQs/readme.md)
     * [Are you comfortable with AI?](FAQs/ai.md)
 
-* [Projects](Projects/readme.me)
-    * [SurveyMonkey](Projects/surveymonkey.md)
-
 * [Appendix](Appendix/readme.md)
     * [Quotes](Appendix/quotes.md)
     * [Reading list](Appendix/readinglist.md)
