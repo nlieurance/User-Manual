@@ -1,5 +1,5 @@
 # Strategy
-My work is often about aligning user needs with business goals.
+My work is often about aligning user needs with business goals. Read on for examples.
 
 ## Ideal customer profiles
 SurveyMonkey created three ideal customer profiles so the whole company would know who our customers were and why they needed us. When I wrote content for the redesigned question editor, did language research for a major design transformation, and delivered UI copy for various projects, I did so with these profiles in mind. I used language that reflected their most common use cases. I prioritized their most-needed features when working on information architecture. My team could always connect our work to the company's top priorities.

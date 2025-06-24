@@ -9,7 +9,7 @@ It's also important for me to have some focus time. That's when I get to do my d
 
 ## Communication preferences
 These are my favorite tools for keeping in touch:
-- **Slack**: Team channels are great. Directs messages work well for me too.
+- **Slack**: Team channels are great. Direct messages work well for me too.
 - **Zoom**: Let's hop on a call and chat about that project.
 - **Email**: I check my messages once or twice a day.
 
