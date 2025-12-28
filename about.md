@@ -31,7 +31,7 @@ I enjoy building things, creating concepts, and formulating strategies. In my ne
 ## Work location
 I live a bit north of Denver, so I'm on Mountain Time. Typically, I'm online an hour before folks on the West Coast.
 
-I thrive as a **remote contributor** and have been working from home since 2020. My workspace is quiet and free of distractions. But the occasional in-person event is just fine with me. I love to socialize and get to know my coworkers.
+I thrive as a **remote contributor** and have been working from home since 2020. My workspace is quiet and free of distractions. But hybrid is just fine with me. I love to socialize and get to know my coworkers.
 
 ## Contact info
 - Email: [writingandwoodworking@gmail.com](mailto:writingandwoodworking@gmail.com)
