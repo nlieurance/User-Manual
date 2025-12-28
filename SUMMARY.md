@@ -14,10 +14,6 @@
     * [UX research](Capabilities/uxresearch.md)
     * [UX writing](Capabilities/uxwriting.md)
 
-* [FAQs](FAQs/readme.md)
-    * [Are you comfortable with AI?](FAQs/ai.md)
-    * [How do you advocate for content design?](FAQs/advocate.md)
-
 * [Appendix](Appendix/readme.md)
     * [Quotes](Appendix/quotes.md)
     * [Reading list](Appendix/readinglist.md)
