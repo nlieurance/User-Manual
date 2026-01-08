@@ -9,5 +9,5 @@ Based on my track record, here's what I promise to bring to your team:
 - I'll make people feel capable, empowered, and seen. I'll make them laugh and put them at ease.
 - I'll do things nobody has done before, and I'll leave a legacy. 
 
-If you're looking for a content designer to help you build products people love, let's connect!
+If you're looking for a writer to help you build products people love, let's connect!
 
